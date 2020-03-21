@@ -2,3 +2,11 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.skill-icon{
+  color: #EA8A95;
+  display: block;
+  padding: 4px;
+  margin-bottom: 0.2em;
+  cursor: default;
+}
